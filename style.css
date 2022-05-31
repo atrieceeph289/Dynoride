@@ -64,7 +64,7 @@ span {
 }
 
 section:hover ~ header {
-  text-shadow: 7px 7px 6px rgb(253, 196, 104);
+  text-shadow: 7px 7px 6px rgb(252, 76, 76);
   transform: scale(1.1);
   -moz-transform: scale(1.1);
   -ms-transform: scale(1.1);
@@ -74,7 +74,7 @@ section:hover ~ header {
 
 
 span:hover{
-  text-shadow: 7px 7px 6px  rgb(253, 196, 104);
+  text-shadow: 7px 7px 6px  rgb(252, 76, 76);
   color: black;
 }
 
